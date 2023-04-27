@@ -3,6 +3,7 @@
 ---
 
 ## Project Team
+
 Kaytlynn Skibo, Chris Landschoot, Nicholas Nguyen, Ayako Homma 
 
 ---
@@ -38,7 +39,7 @@ Finally, the percentage breakdown of wages by marital status revealed that indiv
 
 ---
 
-## Modeling
+## Model Building
 
 Modeling process involved testing three different classifier models: Logistic Regression, KNN, and SVC. We used GridSearch to find the best parameters for each model. After training the models with the best parameters, we calculated several performance metrics, including accuracy, precision, recall and specificity. Additionally, we evaluated the results using a confusion matrix. 
 
